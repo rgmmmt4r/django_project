@@ -1,0 +1,7 @@
+.venv_for_django_practice
+.vscode
+db.sqlite3
+__pycache__
+settings.py
+migrations
+__init__.py
